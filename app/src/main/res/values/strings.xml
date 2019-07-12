@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Grafuri</string>
+
+    <string name="theorems">Teoreme</string>
+    <string name="sentences">Enunturi</string>
+
+    <string-array name="theorem_array">
+        <item>T1</item>
+        <item>T2</item>
+        <item>T3</item>
+    </string-array>
+
+    <string-array name="sentence_array">
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </string-array>
+
+</resources>
