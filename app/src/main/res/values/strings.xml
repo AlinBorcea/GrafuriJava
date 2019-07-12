@@ -5,15 +5,27 @@
     <string name="sentences">Enunturi</string>
 
     <string-array name="theorem_array">
-        <item>T1</item>
-        <item>T2</item>
-        <item>T3</item>
+        <item>Theorem 1</item>
+        <item>Theorem 2</item>
+        <item>Theorem 3</item>
     </string-array>
 
     <string-array name="sentence_array">
-        <item>S1</item>
-        <item>S2</item>
-        <item>S3</item>
+        <item>Sentence 1</item>
+        <item>Sentence 2</item>
+    </string-array>
+
+    <!-- Theorems -->
+    <string-array name="theorem_lessons">
+        <item>Un graf neorientat cu n noduri poate forma 2 ^ C(n, 2)</item>
+        <item>Intr-un graf cu n noduri si m muchii: suma gradelor nodurilor = 2 * m</item>
+        <item>Un graf cu n noduri (n >= 2) are cel putin doua noduri cu acelasi grad</item>
+    </string-array>
+
+    <!-- Sentences -->
+    <string-array name="sentence_lessons">
+        <item>In orice graf numarul nodurilor de grad impar este par</item>
+        <item>Numarul minim de muchii intr-un graf neorientat trebuie sa fie [(n + 1) / 2] astfel incat sa nu existe noduri izolate</item>
     </string-array>
 
 </resources>
